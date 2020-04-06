@@ -10,19 +10,18 @@
     <header class="container">
         <div class="row d-flex justify-content-center">
         <nav class="bg-dark text-center col-md-8 d-flex justify-content-around">
-          <a href="#">ne</a>
-          <a href="#">clique</a>
-          <a href="#">pas</a>
-          <a href="#">ici</a>
+          <a href="http://pierremolas.000webhostapp.com/#pres"><h1>clique ici c'est surper</h1></a>
         </nav>
     </div>
     <br>
     <div class="row d-flex justify-content-center">
-        <section class="col-md-7 bg-secondary">bla bla bla</section>
-        <section class="col-md-7 bg-dark">et bla bla bla</section>
-        <section class="col-md-7 bg-secondary">BLA BLA BLA</section>
-        <section class="col-md-7 bg-dark">voila</section>
-        <section class="col-md-7 bg-secondary">tout</section>
+        <ul>
+            <li><section class="col-md-7 bg-secondary">bla bla bla</section></li>
+            <li><section class="col-md-7 bg-dark">et bla bla bla</section></li>
+            <li><section class="col-md-7 bg-secondary">BLA BLA BLA</section></li>
+            <li><section class="col-md-7 bg-dark">voila</section></li>
+            <li><section class="col-md-7 bg-secondary">tout</section></li>
+        </ul>
     </div>    
     </header>
     
